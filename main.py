@@ -664,7 +664,7 @@ def text(message):
                        'тебе никогда это не удастся, поскольку ты не обладаешь бесконечным количеством времени, но ' \
                        'попытаться пробудить твои дальние струнки души я был обязан), также ты сможешь посмотреть ' \
                        'сгенерированные работы других людей.\n\nБот сделан 21-05-2023. Код бота ' \
-                       'https://github.com/middelmatigheid/bot-sluchaynik.'
+                       'https://github.com/middelmatigheid/tgbot-sluchaynik.'
         bot.send_message(message.chat.id, message_text,
                          reply_markup=add_markup('Сгенерировать новое', 'Посмотреть существующее', 'О проекте'))
 
