@@ -701,6 +701,3 @@ from_developer()
 if __name__ == '__main__':
     bot.infinity_polling()
     
-    
-# middelmatigheid 21-05-2023
-    
